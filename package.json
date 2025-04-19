@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo Building the project...",
-    "start": "node index.js"
+    "build": "react-scripts build",
+    "start": "react-scripts start"
   },
   "dependencies": {},
   "devDependencies": {},
